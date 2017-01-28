@@ -18,3 +18,9 @@ JavaScript:
   5: use Math.floor() and Math.random()*range ; 0 - range
   
   6: use comments // and /* */
+  
+  7: use if, else, elseif
+  
+  8: use switch
+  
+  9: create functions, pass variables to the functions
